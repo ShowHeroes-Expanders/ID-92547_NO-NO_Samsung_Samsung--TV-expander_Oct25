@@ -2,16 +2,16 @@
 
   <header class="section-header sticky">
     <div class="container">
-      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="logo" data-name="Logo"> <img src="@/assets/samsung.png" alt="Samsung">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="logo" data-name="Logo"> <img src="@/assets/samsung.png" alt="Samsung">
       </a>
-      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Läs mer">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Läs mer">
         Läs mer
       </a>
     </div>
   </header>
 
   <section class="section-video">
-    <ExpanderVideo :filename="videoFile" :mobile="mobile" :autoplay="true" url="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" name="Main Video" />
+    <ExpanderVideo :filename="videoFile" :mobile="mobile" :autoplay="true" url="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" name="Main Video" />
   </section>
 
   <section class="section-intro">
@@ -26,15 +26,15 @@
       *Samsung TV har rankats som ledande bästsäljande TV-märke 19&nbsp;år i&nbsp;rad av&nbsp;Omdia, feb&nbsp;2025.
     </p>
     <p class="note">
-      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" data-name="Restriktioner">**Restriktioner gäller, för mer information se&nbsp;här.</a>
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" data-name="Restriktioner">**Restriktioner gäller, för mer information se&nbsp;här.</a>
     </p>
-    <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Läs mer">Läs mer om fördelarna med&nbsp;en&nbsp;Samsung</a>
+    <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Läs mer">Läs mer om fördelarna med&nbsp;en&nbsp;Samsung</a>
   </section>
 
   <section class="section-main">
 
     <article class="article">
-      <a href="ttps://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
         <img src="@/assets/images/image-1.jpg">
       </a>
       <div class="text">
@@ -51,7 +51,7 @@
     </article>
 
     <article class="article">
-      <a href="ttps://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431045536;dc_trk_aid=624390393;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
         <img src="@/assets/images/image-2.jpg">
       </a>
       <div class="text">
@@ -67,12 +67,12 @@
           *Kadmium är ett ämne som omfattas av EU:s direktiv om begränsning av användning av vissa farliga ämnen i
           elektrisk och elektronisk utrustning (2011/65/EU).
         </p>
-        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Upptäck alla modeller">Upptäck alla modeller</a>
+        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431045536;dc_trk_aid=624390393;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Upptäck alla modeller">Upptäck alla modeller</a>
       </div>
     </article>
 
     <article class="article">
-      <a href="ttps://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431675157;dc_trk_aid=624392667;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
         <img src="@/assets/images/image-3.jpg">
       </a>
       <div class="text">
@@ -84,12 +84,12 @@
           Den matta skärmen får konsten att se ut som en riktig tavla, och tack vare den trådlösa boxen kan du
           placera anslutna enheter upp till 10 meter bort för en stilren installation.
         </p>
-        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Uppgradera nu">Uppgradera nu</a>
+        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431675157;dc_trk_aid=624392667;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Uppgradera nu">Uppgradera nu</a>
       </div>
     </article>
 
     <article class="article">
-      <a href="ttps://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431045533;dc_trk_aid=624393990;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
         <img src="@/assets/images/image-4.jpg">
       </a>
       <div class="text">
@@ -101,7 +101,7 @@
           teknik. Den är skapad för att ge dig den ultimata spel- och filmupplevelsen, anpassad för ljusa
           nordiska hem.
         </p>
-        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431255532;dc_trk_aid=623824772;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Upptäck våra OLED-modeller">Upptäck våra OLED-modeller</a>
+        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431045533;dc_trk_aid=624393990;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Upptäck våra OLED-modeller">Upptäck våra OLED-modeller</a>
       </div>
     </article>
 
