@@ -309,7 +309,7 @@
   }
 
   .section-main {
-    padding: 0 1.5rem;
+    padding: 0 1.5rem 1px;
     @include d {
       padding: 0 3rem;
     }
