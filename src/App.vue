@@ -2,106 +2,95 @@
 
   <header class="section-header sticky">
     <div class="container">
-      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="logo" data-name="Logo"> <img src="@/assets/samsung.png" alt="Samsung">
+      <a href="https://www.samsung.com/no/tvs/why-samsung-tv/" target="_blank" class="logo" data-name="Logo"> <img src="@/assets/samsung.png" alt="Samsung">
       </a>
-      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Läs mer">
-        Läs mer
+      <a href="https://www.samsung.com/no/tvs/why-samsung-tv/" target="_blank" class="cta" data-name="Les mer">
+        Les mer
       </a>
     </div>
   </header>
 
   <section class="section-video">
-    <ExpanderVideo :filename="videoFile" :mobile="mobile" :autoplay="true" url="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" name="Main Video" />
+    <ExpanderVideo :filename="videoFile" :mobile="mobile" :autoplay="true" url="https://www.samsung.com/no/tvs/why-samsung-tv/" name="Main Video" />
   </section>
 
   <section class="section-intro">
-    <h1 class="heading">Choose Global&nbsp;No.1&nbsp;TV</h1>
+    <h1 class="heading">Choose Global No.1&nbsp;TV</h1>
     <p class="lead">
-      Med en Samsung TV får du det lilla extra för att maxa din TV-upplevelse. Njut av en modern Smart
-      Hub som hålls uppdaterad i upp till 7 år och skyddar din personliga information med Knox Security.
-      Du får dessutom tillgång till hundratals kanaler via Samsung TV Plus, och med Smart Start kan du
-      enkelt streama spel, serier och filmer direkt
+      Med en Samsung TV får du det lille ekstra som gir deg en optimal TV-opplevelse. Nyt en moderne Smart Hub som holder seg oppdatert i opptil 7 år, og beskytter dine personopplysninger med Knox Security. Du får også tilgang til hundrevis av kanaler via Samsung TV Plus, og med Smart Start kan du enkelt streame spill, serier og filmer direkte fra utvalgte premiumtjenester som er inkludert i den innledende perioden med din nye Samsung TV**.
     </p>
     <p class="note">
-      *Samsung TV har rankats som ledande bästsäljande TV-märke 19&nbsp;år i&nbsp;rad av&nbsp;Omdia, feb&nbsp;2025.
+      *Samsung TV rangeres som det mest solgte TV-merket for 19. året på rad av Omdia, feb 2025.<br>
+      
     </p>
     <p class="note">
-      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" data-name="Restriktioner">**Restriktioner gäller, för mer information se&nbsp;här.</a>
+      <a href="https://www.samsung.com/no/tvs/why-samsung-tv/" target="_blank" data-name="Restriksjoner">**Restriksjoner gjelder, for mer informasjon&nbsp;se&nbsp;her.</a>
     </p>
-    <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Läs mer">Läs mer om fördelarna med&nbsp;en&nbsp;Samsung</a>
+    <a href="https://www.samsung.com/no/tvs/why-samsung-tv/" target="_blank" class="cta" data-name="Les mer">Les mer</a>
   </section>
 
   <section class="section-main">
 
     <article class="article">
-      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431319473;dc_trk_aid=624392670;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
+      <a href="https://www.samsung.com/no/tvs/why-samsung-tv/" target="_blank" class="image" data-name="Image">
         <img src="@/assets/images/image-1.jpg">
       </a>
       <div class="text">
         <h1 class="heading">
-          Skyddar din personliga information
+          Beskytter dine personopplysninger
         </h1>
         <p class="lead">
-          Knox Security skyddar din känsliga information, som lösenord och kortuppgifter, och blockerar
-          obehöriga appar och webbplatser. Din Samsung TV hålls dessutom säker med kontinuerliga
-          uppdateringar i upp till&nbsp;7&nbsp;år*.
+          Knox Security beskytter sensitive opplysninger som passord og kortopplysninger, og blokkerer uautoriserte apper og nettsteder. Samsung-TV-en din holdes også sikker med kontinuerlige oppdateringer i&nbsp;opptil&nbsp;7&nbsp;år*.
         </p>
-        <p class="note">*Gäller 2025 års modell</p>
+        <p class="note">*Gjelder 2025-modellen</p>
       </div>
     </article>
 
     <article class="article">
-      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431045536;dc_trk_aid=624390393;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
+      <a href="https://www.samsung.com/no/tvs/neo-qled-tv/" target="_blank" class="image" data-name="Image">
         <img src="@/assets/images/image-2.jpg">
       </a>
       <div class="text">
         <h1 class="heading">
-          Äkta QLED med QD-skikt
+          Ekte QLED med QD-lag
         </h1>
         <p class="lead">
-          Samsungs Quantum Dot-teknologi har ett QD-skikt i panelen som skapar rena röda och gröna färger,
-          utan kadmium*. Våra Neo QLED modeller passar perfekt för dig som vill ha bästa möjliga TV-
-          upplevelse, även i ljusa förhållanden.
+          Samsungs Quantum Dot-teknologi har et QD-lag i panelet som skaper rene røde og grønne farger uten kadmium*. Våre Neo QLED-modeller er perfekte for deg som ønsker den best mulige TV-opplevelsen, selv i lyse omgivelser.
         </p>
         <p class="note">
-          *Kadmium är ett ämne som omfattas av EU:s direktiv om begränsning av användning av vissa farliga ämnen i
-          elektrisk och elektronisk utrustning (2011/65/EU).
+          *Kadmium er et stoff som omfattes av EU-direktivet om begrensning av bruken av visse farlige stoffer i elektrisk og elektronisk utstyr (2011/65/EU).
         </p>
-        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431045536;dc_trk_aid=624390393;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Upptäck alla modeller">Upptäck alla modeller</a>
+        <a href="https://www.samsung.com/no/tvs/neo-qled-tv/" target="_blank" class="cta" data-name="Oppdag alle modeller">Oppdag alle modeller</a>
       </div>
     </article>
 
     <article class="article">
-      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431675157;dc_trk_aid=624392667;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
+      <a href="https://www.samsung.com/no/lifestyle-tvs/the-frame/ls03fw-75-inch-black-tq75ls03fwuxxc" target="_blank" class="image" data-name="Image">
         <img src="@/assets/images/image-3.jpg">
       </a>
       <div class="text">
         <h1 class="heading">
-          8:e generationens The&nbsp;Frame är här
+          Den 8. generasjonen av The Frame er her
         </h1>
         <p class="lead">
-          Nya The&nbsp;Frame kommer med Neo QLED-teknik och är nästan hälften så tunn som tidigare modeller.
-          Den matta skärmen får konsten att se ut som en riktig tavla, och tack vare den trådlösa boxen kan du
-          placera anslutna enheter upp till 10 meter bort för en stilren installation.
+          Den nye The&nbsp;Frame har Neo QLED-teknologi og er nesten halvparten så tynn som tidligere modeller. Den matte skjermen får kunsten til å se ut som et ekte maleri, og takket være den trådløse boksen kan du plassere tilkoblede enheter opptil 10 meter unna for en stilig installasjon.
         </p>
-        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431675157;dc_trk_aid=624392667;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Uppgradera nu">Uppgradera nu</a>
+        <a href="https://www.samsung.com/no/lifestyle-tvs/the-frame/ls03fw-75-inch-black-tq75ls03fwuxxc" target="_blank" class="cta" data-name="Oppgrader nå">Oppgrader nå</a>
       </div>
     </article>
 
     <article class="article">
-      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431045533;dc_trk_aid=624393990;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="Image">
+      <a href="https://www.samsung.com/no/tvs/all-tvs/?oled" target="_blank" class="image" data-name="Image">
         <img src="@/assets/images/image-4.jpg">
       </a>
       <div class="text">
         <h1 class="heading">
-          Vår topptestade OLED
+          Vår topprangerte OLED
         </h1>
         <p class="lead">
-          Vår bästa OLED bjuder på fulländad svärta och minimerade reflektioner tack vare vår Glare Free-
-          teknik. Den är skapad för att ge dig den ultimata spel- och filmupplevelsen, anpassad för ljusa
-          nordiska hem.
+          Vår beste OLED gir perfekte sortnivåer og minimale refleksjoner takket være vår Glare Free-teknologi. Den er designet for å gi deg den ultimate spill- og filmopplevelsen, skreddersydd for lyse nordiske hjem.
         </p>
-        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.5542066SHOWHEROESABDIGIT/B34297298.431045533;dc_trk_aid=624393990;dc_trk_cid=213937395;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Upptäck våra OLED-modeller">Upptäck våra OLED-modeller</a>
+        <a href="https://www.samsung.com/no/tvs/all-tvs/?oled" target="_blank" class="cta" data-name="Oppdag våre OLED-modeller">Oppdag våre OLED-modeller</a>
       </div>
     </article>
 
