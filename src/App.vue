@@ -300,7 +300,7 @@
   .section-main {
     padding: 0 1.5rem 1px;
     @include d {
-      padding: 0 3rem;
+      padding: 0 3rem 1px;
     }
     .article {
       margin-bottom: 3rem;
