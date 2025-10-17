@@ -2,16 +2,16 @@
 
   <header class="section-header sticky">
     <div class="container">
-      <a href="https://www.samsung.com/no/tvs/why-samsung-tv/" target="_blank" class="logo" data-name="Logo"> <img src="@/assets/samsung.png" alt="Samsung">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.432075426;dc_trk_aid=624778221;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="logo" data-name="Logo"> <img src="@/assets/samsung.png" alt="Samsung">
       </a>
-      <a href="https://www.samsung.com/no/tvs/why-samsung-tv/" target="_blank" class="cta" data-name="Les mer">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.432075426;dc_trk_aid=624778221;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Les mer">
         Les mer
       </a>
     </div>
   </header>
 
   <section class="section-video">
-    <ExpanderVideo :filename="videoFile" :mobile="mobile" :autoplay="true" url="https://www.samsung.com/no/tvs/why-samsung-tv/" name="Main Video" />
+    <ExpanderVideo :filename="videoFile" :mobile="mobile" :autoplay="true" url="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.432075426;dc_trk_aid=624778221;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" name="Main Video" />
   </section>
 
   <section class="section-intro">
@@ -24,9 +24,9 @@
       
     </p>
     <p class="note">
-      <a href="https://www.samsung.com/no/tvs/why-samsung-tv/" target="_blank" data-name="Restriksjoner">**Restriksjoner gjelder, for mer informasjon&nbsp;se&nbsp;her.</a>
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.432075426;dc_trk_aid=624778221;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" data-name="Restriksjoner">**Restriksjoner gjelder, for mer informasjon&nbsp;se&nbsp;her.</a>
     </p>
-    <a href="https://www.samsung.com/no/tvs/why-samsung-tv/" target="_blank" class="cta" data-name="Les mer">Les mer</a>
+    <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.432075426;dc_trk_aid=624778221;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Les mer">Les mer</a>
   </section>
 
   <section class="section-main">
@@ -47,7 +47,7 @@
     </article>
 
     <article class="article">
-      <a href="https://www.samsung.com/no/tvs/neo-qled-tv/" target="_blank" class="image" data-name="Image">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.432076839;dc_trk_aid=624778227;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="QLED">
         <img src="@/assets/images/image-2.jpg">
       </a>
       <div class="text">
@@ -60,12 +60,12 @@
         <p class="note">
           *Kadmium er et stoff som omfattes av EU-direktivet om begrensning av bruken av visse farlige stoffer i elektrisk og elektronisk utstyr (2011/65/EU).
         </p>
-        <a href="https://www.samsung.com/no/tvs/neo-qled-tv/" target="_blank" class="cta" data-name="Oppdag alle modeller">Oppdag alle modeller</a>
+        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.432076839;dc_trk_aid=624778227;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Oppdag alle modeller">Oppdag alle modeller</a>
       </div>
     </article>
 
     <article class="article">
-      <a href="https://www.samsung.com/no/lifestyle-tvs/the-frame/ls03fw-75-inch-black-tq75ls03fwuxxc" target="_blank" class="image" data-name="Image">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.431459905;dc_trk_aid=624645719;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="The Frame">
         <img src="@/assets/images/image-3.jpg">
       </a>
       <div class="text">
@@ -75,12 +75,12 @@
         <p class="lead">
           Den nye The&nbsp;Frame har Neo QLED-teknologi og er nesten halvparten så tynn som tidligere modeller. Den matte skjermen får kunsten til å se ut som et ekte maleri, og takket være den trådløse boksen kan du plassere tilkoblede enheter opptil 10 meter unna for en stilig installasjon.
         </p>
-        <a href="https://www.samsung.com/no/lifestyle-tvs/the-frame/ls03fw-75-inch-black-tq75ls03fwuxxc" target="_blank" class="cta" data-name="Oppgrader nå">Oppgrader nå</a>
+        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.431459905;dc_trk_aid=624645719;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Oppgrader nå">Oppgrader nå</a>
       </div>
     </article>
 
     <article class="article">
-      <a href="https://www.samsung.com/no/tvs/all-tvs/?oled" target="_blank" class="image" data-name="Image">
+      <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.432076842;dc_trk_aid=624645716;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="image" data-name="OLED">
         <img src="@/assets/images/image-4.jpg">
       </a>
       <div class="text">
@@ -90,7 +90,7 @@
         <p class="lead">
           Vår beste OLED gir perfekte sortnivåer og minimale refleksjoner takket være vår Glare Free-teknologi. Den er designet for å gi deg den ultimate spill- og filmopplevelsen, skreddersydd for lyse nordiske hjem.
         </p>
-        <a href="https://www.samsung.com/no/tvs/all-tvs/?oled" target="_blank" class="cta" data-name="Oppdag våre OLED-modeller">Oppdag våre OLED-modeller</a>
+        <a href="https://ad.doubleclick.net/ddm/trackclk/N800273.4690966SHOWHEROESDIGITAL/B34496154.432076842;dc_trk_aid=624645716;dc_trk_cid=216774561;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1" target="_blank" class="cta" data-name="Oppdag våre OLED-modeller">Oppdag våre OLED-modeller</a>
       </div>
     </article>
 
